@@ -28,3 +28,26 @@ h1{
 	width: 100%;
 	height: 100%;
 }
+
+div.galeri{
+	padding: 5px;
+	margin: 20px;
+	border: 1px solid black;
+	background-color: lightblue;
+	float: left;
+	width: 380px;
+	height: 550px;
+	overflow: scroll;
+}
+
+div.galeri img{
+	width: 100%;
+	height: auto;
+}
+
+div.deskripsi{
+	font-size: 15px;
+	padding: 10px;
+	text-align: justify;
+	font-family: monospace;
+}
