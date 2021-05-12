@@ -12,6 +12,15 @@ h1{
 	height: 50px;
 }
 
+h2{
+	color: rgb(0, 0, 0);
+	background-color: blue;
+	width: 100%;
+	margin-top: 100px;
+	text-align: center;
+}
+
+
 #navigasi{
 	position: fixed;
 	width: 100%;
