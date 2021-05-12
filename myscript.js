@@ -35,8 +35,8 @@ function tutupbatik4(){
 }
 
 function batik5(){
-    document.getElementById("batik1").style.display="block"
-    document.getElementById("nbbatik1").style.display="none"
+    document.getElementById("batik5").style.display="block"
+    document.getElementById("nbbatik5").style.display="none"
 }
 function tutupbatik5(){
     document.getElementById("batik5").style.display="none"
