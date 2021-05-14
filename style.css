@@ -137,3 +137,41 @@ h3{
 #nbbatik1, #nbbatik2, #nbbatik3, #nbbatik4, #nbbatik5, #nbbatik6, #nblukisan1, #nblukisan2, #nblukisan3, #nblukisan4, #nblukisan5, #nblukisan6, #nbpatung1, #nbpatung2, #nbpatung3, #nbpatung4, #nbpatung5, #nbpatung6, #nbmusik1, #nbmusik2, #nbmusik3, #nbmusik4, #nbmusik5, #nbmusik6, #nbtari1, #nbtari2, #nbtari3, #nbtari4, #nbtari5, #nbtari6{
 	text-align: center;
 }  
+.b{
+			background-color: darkseagreen;
+}
+.h{
+	text-align: center;
+	font-family: fantasy;
+	font-size: 30px;
+}
+p.seni{
+	text-align: justify;
+	font-family: monospace;
+	font-size: 15px;
+}
+div{
+	text-align: center;
+	display: inline-block;
+}
+.gambar{
+	width: 500px;
+	border: 5px solid black;
+}
+.foto{
+	width: 200px;
+	height: 300px;
+	margin: 5px 5px;
+	padding: 5px 5px;
+	background-color: darkgreen;
+}
+.text{
+	text-align: center;
+	font-family: monospace;
+	font-size: 13px;
+}
+		
+.pict{
+	margin: 5px 5px;
+	padding: 5px 5px;
+}
