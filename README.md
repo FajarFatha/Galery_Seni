@@ -21,9 +21,8 @@ Nb.
 4. Setiap bagian seperti bagian home, bagian seni tari, bagian seni musik, bagian Developer, dimasukkan dalam satu div dengan id, contoh <div id="senitari">
 5. Dibuat sesuai susunan, contoh div developer harus berada di bawah konten.
 6. Karena untuk konten terdapat 3 orang, untuk pembagiannya diatur 3 orang tersebut.
-7. pembuatan setiap bagian atau <div> boleh dilakukan di teks editor, jika sudah, bagian atau <div> tersebut bisa di copas ke code html yang tersedia.
-8. Bisa langsung mulai mengerjakan tanpa harus menunggu teman yang mendapat bagian sebelumnya menyelesaikan tugasnya.
-9. Jika ada temannya yang kesulitan sangat dianjurkan untuk membantu.
+7. Bisa langsung mulai mengerjakan tanpa harus menunggu teman yang mendapat bagian sebelumnya menyelesaikan tugasnya.
+8. Jika ada temannya yang kesulitan sangat dianjurkan untuk membantu.
 
 Jika ada usulan atau pendapat apapun sangat-sangat dipersilahkan,
 
